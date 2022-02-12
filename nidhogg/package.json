@@ -1,0 +1,28 @@
+{
+  "name": "nidhogg",
+  "version": "1.0.0",
+  "description": "Express.js server",
+  "main": "ratatosk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "Javascript",
+    "JS"
+  ],
+  "author": "Robert Tunn",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "helmet": "^5.0.2",
+    "moment": "^2.29.1",
+    "mongoose": "^6.2.1",
+    "underscore": "^1.13.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
