@@ -17,6 +17,9 @@ Front end - Adler
 Back end - Nidhogg
 Server - Ratatosk
 Database - Yggdrasil
+Deploy - Vedrfolnir
+
+
 
 
 
